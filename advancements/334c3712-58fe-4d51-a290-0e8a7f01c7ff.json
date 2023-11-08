@@ -1,0 +1,34 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-09-17 15:11:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2023-09-17 15:15:08 +0200",
+      "minecraft:stony_peaks": "2023-09-17 15:11:11 +0200",
+      "minecraft:sparse_jungle": "2023-09-17 15:11:08 +0200",
+      "minecraft:river": "2023-09-17 15:12:59 +0200",
+      "minecraft:forest": "2023-09-17 15:13:06 +0200",
+      "minecraft:lush_caves": "2023-09-17 15:13:08 +0200",
+      "minecraft:jungle": "2023-09-17 15:13:04 +0200",
+      "minecraft:plains": "2023-09-17 15:11:24 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2023-09-17 15:12:43 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-09-18 23:19:27 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
